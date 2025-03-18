@@ -1,0 +1,37 @@
+<html lang> = "PT-BR">
+      <head>
+	   <meta charset = "UTF-8">
+              <title>    </title>
+      </head>
+	<body>
+	   <h1> Melhores Jogos da Historia em Gráficos </h1>
+    	       <ol>
+		 <li>Red Dead Redemption 2 </li>
+		 <li>The Last of Us Part II </li>
+		 <li>Cyberpunk 207 </li>
+		 <li>Aviator </li>
+		 <li>Horizon Forbidden West </li>
+		 <li>God of War Ragnarök </li>
+		 <li>Final Fantasy XVI </li>
+		 <li>Elden Ring </li>
+       	       </ol>
+
+          <h1> Melhores Jogos da Historia em Gráficos </h1>
+    	       <ul>
+		 <li>Red Dead Redemption 2 </li>
+		 <li>The Last of Us Part II </li>
+		 <li>Cyberpunk 207 </li>
+		 <li>Aviator </li>
+		 <li>Horizon Forbidden West </li>
+		 <li>God of War Ragnarök </li>
+		 <li>Final Fantasy XVI </li>
+		 <li>Elden Ring </li>
+       	       </ul>
+
+         <h1> Imagem do jogo com Maior Gráfico </h1>
+	     <img src = "https://wallpapers.com/images/hd/red-dead-redemption-2-4k-mountains-4slr3bog13hpocqm.jpg">
+	 <h1> KKKKKK </h1>
+
+	 <h1> 
+       </body>
+</html>
